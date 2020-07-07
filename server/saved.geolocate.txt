@@ -1,0 +1,84 @@
+Latitude: 21.1676845
+Longitude: -101.7512625
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Altitude: 2056.5
+Accuracy: 44.22999954223633
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: 21.1668254
+Longitude: -101.7530341
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Altitude: 2070.1
+Accuracy: 4.28000020980835
+Speed: 0.0014564896700903773
+Heading: 2.1335270404815674
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: 21.1667635
+Longitude: -101.7530938
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Altitude: 2078
+Accuracy: 3.9000000953674316
+Speed: 0.0004440770426299423
+Heading: 92.49070739746094
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: 21.1709258
+Longitude: -101.7504275
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Altitude: null
+Accuracy: 1200
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: 19.3599807
+Longitude: -99.1471719
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Altitude: null
+Accuracy: 2500
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: 19.3599807
+Longitude: -99.1471719
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Altitude: null
+Accuracy: 2500
+Speed: 0
+Heading: 90
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: 21.1667533
+Longitude: -101.7530417
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Altitude: 2059.4
+Accuracy: 3.9000000953674316
+Speed: 0
+Heading: 90
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
